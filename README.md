@@ -2,9 +2,6 @@
 
 Changelog
 
-Version 4.4
-Datum: 08.10.2024
-
 Version 4.3
 Datum: 28.03.2024
 - Nameplate SetDevice: Index entfernt, alphabetische Sortierung
