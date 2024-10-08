@@ -8,6 +8,7 @@ Datum: 08.10.2024
 - Nameplate iFrame
 - NameplateView skalierende Schrift bei zu langen Namen
 - Changelog in Git
+- "Go to" - Button von Events und Devices entfernt
 
 Version 4.3
 Datum: 28.03.2024
