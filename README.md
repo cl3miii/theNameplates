@@ -1,10 +1,10 @@
 # theNameplates - Changelog
 
 Version 4.3
-Datum: 08.10.2024
+Datum: 14.10.2024
 - David + Sepp <3
 - EditNameplate Orientation
-- EditNameplate Border
+- EditNameplate Borders
 - Nameplate iFrame
 - NameplateView skalierende Schrift bei zu langen Namen
 - Changelog in Git
