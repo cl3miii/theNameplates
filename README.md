@@ -1,5 +1,9 @@
 # theNameplates - Changelog
 
+Version 4.4
+Datum: 11.11.2024
+- Nameplate iFrame Größen für Seitenverhältnisse angepasst
+
 Version 4.3
 Datum: 14.10.2024
 - David + Sepp <3
