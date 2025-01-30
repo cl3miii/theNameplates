@@ -1,5 +1,11 @@
 # theNameplates - Changelog
 
+Version 4.5
+Datum:
+- Pinia Store auf Script Setup umgestellt
+- Pinia Store Reset Funktion
+- Dialoge in Komponenten eingebettet
+
 Version 4.4
 Datum: 11.11.2024
 - Nameplate iFrame Größen für Seitenverhältnisse angepasst
