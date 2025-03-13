@@ -10,6 +10,11 @@ Datum: XX
 - Room: Select SlideCrew Room hinzugefügt
 - Nameplate: SlideCrewModus
 
+- offen: Device Redirect
+- offen: Room Signage
+- offen: SC Room Signage
+- offen: SC Timer
+
 Version 4.4
 Datum: 11.11.2024
 - Nameplate iFrame Größen für Seitenverhältnisse angepasst
