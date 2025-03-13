@@ -8,6 +8,7 @@ Datum: XX
 - Event: scAPI Token
 - AddScRooms Funktion hinzugefügt
 - Room: Select SlideCrew Room hinzugefügt
+- Nameplate: SlideCrewModus
 
 Version 4.4
 Datum: 11.11.2024
