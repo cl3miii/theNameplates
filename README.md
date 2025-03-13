@@ -1,10 +1,13 @@
 # theNameplates - Changelog
 
 Version 4.5
-Datum:
+Datum: XX
 - Pinia Store auf Script Setup umgestellt
 - Pinia Store Reset Funktion
 - Dialoge in Komponenten eingebettet
+- Event: scAPI Token
+- AddScRooms Funktion hinzugefügt
+- Room: Select SlideCrew Room hinzugefügt
 
 Version 4.4
 Datum: 11.11.2024
