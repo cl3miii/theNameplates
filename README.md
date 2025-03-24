@@ -1,7 +1,7 @@
 # theNameplates - Changelog
 
 Version 4.5
-Datum: XX
+Datum: 24.03.2025
 - Pinia Store auf Script Setup umgestellt
 - Pinia Store Reset Funktion
 - Dialoge in Komponenten eingebettet
@@ -9,11 +9,9 @@ Datum: XX
 - AddScRooms Funktion hinzugefügt
 - Room: Select SlideCrew Room hinzugefügt
 - Nameplate: SlideCrewModus
-
-- offen: Device Redirect
-- offen: Room Signage
-- offen: SC Room Signage
-- offen: SC Timer
+- Device Redirect
+- SC Room Signage
+- SC Timer
 
 Version 4.4
 Datum: 11.11.2024
