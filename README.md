@@ -1,4 +1,8 @@
 # theNameplates - Changelog
+Version 4.6
+Datum: 24.03.2026
+- Edit Nameplates: Alternativer Hintergrund ohne Text
+- Timer/Uhr nutzt jetzt Zeitzone Europe/Berlin
 
 Version 4.5
 Datum: 24.03.2025
