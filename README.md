@@ -1,4 +1,10 @@
 # theNameplates - Changelog
+Version 4.61
+Datum: 25.11.2026
+- Font "Titillium Web" hinzugefügt
+- Upload mehrerer Datein
+- Copy/Paste Nameplate Settings
+  
 Version 4.6
 Datum: 24.03.2026
 - Edit Nameplates: Alternativer Hintergrund ohne Text
